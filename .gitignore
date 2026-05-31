@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local dependencies and virtual environments
+.deps/
+.venv/
+.venv_codex/
+venv/
+env/
+
+# Local temp files
+.tmp/
+*.tmp
+
+# Tool/runtime output
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

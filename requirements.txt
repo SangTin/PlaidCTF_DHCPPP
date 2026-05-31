@@ -1,0 +1,4 @@
+pycryptodome
+dnspython
+requests
+pwntools
